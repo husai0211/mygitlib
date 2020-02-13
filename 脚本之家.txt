@@ -1,0 +1,11 @@
+﻿一个例子
+https://www.jb51.net/article/170721.htm
+
+使centos7 的gedit的edit的选项增加可设行号的菜单。
+https://www.cnblogs.com/wq242424/p/6151461.html
+
+改变gdeit的格式为unix
+https://www.cnblogs.com/scwbky/p/10248997.html
+
+expr运算符讲解（expression运算符，主要有算术运算，字符操作等，shell里面需要使用加减乘除等符合时，需要使用“\”反斜杠来转义），参考for1-1.sh
+https://www.cnblogs.com/f-ck-need-u/p/7231832.html#auto_id_1
