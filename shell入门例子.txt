@@ -2,3 +2,4 @@ assign_and_out.sh 	显示赋值个输出
 if_else.sh		展示if-else语句和判断.sh文件语法是否正确
 input.sh		展示从键盘输入字符串，并在比较
 for_expr.sh		展示for语句和expr命令加法
+for_seq.sh		展示for语句和seq序列
